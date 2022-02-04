@@ -48,5 +48,5 @@ Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
 
 ## Reference
-- [](https://lakemper.eu/blog/getting-started-with-hugo-academic-and-github-pages/?fbclid=IwAR3tygowGadetShWNkzEvjv2tTK5H-KWSN8K_5_swyPYJ5_VIzF4U5NAG1M)
-- [](https://wowchemy.com/docs/getting-started/customization/) 
+- [https://lakemper.eu/blog/getting-started-with-hugo-academic-and-github-pages/?fbclid=IwAR3tygowGadetShWNkzEvjv2tTK5H-KWSN8K_5_swyPYJ5_VIzF4U5NAG1M](https://lakemper.eu/blog/getting-started-with-hugo-academic-and-github-pages/?fbclid=IwAR3tygowGadetShWNkzEvjv2tTK5H-KWSN8K_5_swyPYJ5_VIzF4U5NAG1M)
+- [https://wowchemy.com/docs/getting-started/customization/](https://wowchemy.com/docs/getting-started/customization/) 
