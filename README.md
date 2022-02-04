@@ -1,8 +1,6 @@
 # Dependency
-- Hugo 0.73 extend version
+- [Hugo 0.73 extend version](https://github.com/gohugoio/hugo/releases?page=5)
 - The academic template is 0.49 version
-
-<p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
 
 # Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
 
@@ -50,5 +48,5 @@ Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
 
 ## Reference
-- ```https://lakemper.eu/blog/getting-started-with-hugo-academic-and-github-pages/?fbclid=IwAR3tygowGadetShWNkzEvjv2tTK5H-KWSN8K_5_swyPYJ5_VIzF4U5NAG1M```
-- ```https://wowchemy.com/docs/getting-started/customization/```
+- [](https://lakemper.eu/blog/getting-started-with-hugo-academic-and-github-pages/?fbclid=IwAR3tygowGadetShWNkzEvjv2tTK5H-KWSN8K_5_swyPYJ5_VIzF4U5NAG1M)
+- [](https://wowchemy.com/docs/getting-started/customization/) 
